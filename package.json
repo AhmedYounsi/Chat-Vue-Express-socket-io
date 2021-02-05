@@ -1,0 +1,27 @@
+{
+  "name": "socket",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "emoji-picker-element": "^1.4.0",
+    "mongoose": "^5.11.14",
+    "socket.io-client": "^2.1.0",
+    "v-emoji-picker": "^2.3.3",
+    "vue": "^2.5.13"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-beta.6",
+    "@vue/cli-service": "^3.0.0-beta.6",
+    "vue-template-compiler": "^2.5.13"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
